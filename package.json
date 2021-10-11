@@ -1,0 +1,13 @@
+{
+  "name": "ergobox-input-display",
+  "version": "1.0.0",
+  "description": "An HTML5 controller input display for the Ergobox",
+  "main": "index.js",
+  "repository": "git@github.com:burabure/Ergobox-Input-Display.git",
+  "author": "Nicolas <BuraBure> Fernandez <nicolas@santiagolab.cl>",
+  "license": "MIT",
+  "dependencies": {
+    "prettier": "^2.4.1",
+    "typescript": "^4.4.3"
+  }
+}
